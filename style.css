@@ -1,0 +1,71 @@
+body {
+  background-color: white;
+  width: auto;
+  
+}
+
+#personal-info, #profile, #experience, #skills {
+  background-color: rgb(227, 240, 255);
+  border: 4px solid rgb(43, 81, 127);
+  padding: 25px;
+  width: 80%;
+}
+
+#profile {
+}
+
+#experience {
+}
+
+#skills {
+}
+
+#j1, #j3 {
+  border-top (2px solid black);
+}
+
+#j2, #j3 {
+  border-top (2px solid black);
+  background-color: rgb(87, 162, 255);
+}
+  
+
+.name {
+  text-align: center;
+  font-color: DimGray;
+  font-size: 48px;
+  padding: 10px;
+  
+}
+
+.address {
+  text-align: center;
+  font-color: DimGray;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.category {
+  text-align: center;
+  font-color: DimGray;
+  font-size: 32px;
+  padding: 10px
+}
+
+.title {
+  text-align: center;
+  font-color: DimGray;
+  font-size: 28px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.employerinfo {
+  font-size: 26px;
+  text-align: center;
+}
+
+.list {
+  text-align: left;
+  font-size: 22px;
+}
