@@ -31,7 +31,7 @@ body {
   border: 2px double white;
   background-color: rgba(255, 255, 255, 0.75);
   position: static;
-  top: 150px;
+  padding-top: 150px;
   z-index: -1;
   overflow: hidden;
 }
