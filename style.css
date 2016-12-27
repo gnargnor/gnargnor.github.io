@@ -20,7 +20,7 @@ body {
   margin: auto;
   max-width: 800px;
   border: 2px double white;
-  border-radius: 4px;
+  border-radius: 8px;
   background-color: rgb(11, 44, 127);
   position: static;
   left: 5px;
@@ -43,18 +43,19 @@ body {
 #profile, #experience, #skills {
   background-color: rgba(38, 63, 127, 0.6);
   border: 2px double rgb(43, 81, 127);
-  border-radius: 4px;
+  border-radius: 8px;
   padding: 25px;
-  margin: auto;
+  margin: 5px auto 5px;
   width: 85%;
 }
 
 #j1, #j3 {
   margin: auto;
   border: 2px solid white;
+  border-radius: 6px;
   padding: 3px;
   align-content: left;
-  background-color: rgba(35, 97, 255, 0.5);
+  background-color: rgba(35, 97, 255, 0.65);
   padding-top: 2px;
 }
 
@@ -62,8 +63,9 @@ body {
   margin: auto;
   align-content: left;
   border: 2px solid white;
+  border-radius: 6px;
   padding: 3px;
-  background-color: rgba(22, 85, 255, 0.5);
+  background-color: rgba(22, 85, 255, 0.65);
 }
   
 
@@ -87,7 +89,7 @@ body {
 
 
 .category {
-  margin: auto;
+  margin: 2px auto;
   text-decoration: underline;
   text-align: center;
   color: White;
@@ -95,7 +97,7 @@ body {
 }
 
 .title {
-  text-align: left;
+  text-align: right;
   padding-left: 3px;
   color: White;
   font-size: 18px;
@@ -106,7 +108,7 @@ body {
   color: white;
   padding-left: 3px;
   font-size: 18px;
-  text-align: left;
+  text-align: right;
 }
 
 .list {
@@ -122,6 +124,7 @@ body {
   padding-left: 3px;
   padding-right: 3px;
   border: 2px solid white;
+  border-radius: 6px;
   text-align: left;
   margin: auto;
   color: white;
@@ -131,10 +134,11 @@ body {
 .description {
   font-size: 16px;
   border: 2px solid white;
+  border-radius: 6px;
   padding-left: 3px;
   padding-right: 3px;
   background-color: rgba(22, 55, 255, 0.5);
-  text-align: center;
+  text-align: left;
   color: White;
   margin: auto;
 }
