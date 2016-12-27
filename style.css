@@ -16,7 +16,7 @@ body {
 }
 
 #personal-info {
-  border: 2px double black;
+  border: 2px double white;
   background-color: rgba(255, 255, 255, 0.5);
   margin: auto;
   position: static;
