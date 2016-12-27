@@ -17,8 +17,8 @@ body {
 }
 
 #personal-info {
-  border: 2px solid black;
-  background-color: rgba(0, 0, 0, 0.7);
+  border: 2px double black;
+  background-color: rgba(255, 255, 255, 0.75);
   z-index: 1;
   margin: auto;
   Padding: 10px 4px;
@@ -27,9 +27,9 @@ body {
 
 #container {
   margin: auto;
-  max-width: 600px;
+  max-width: 800px;
   border: 2px double white;
-  background-color
+  background-color: rgba(255, 255, 255, 0.75);
 }
 
 #line-separator {
