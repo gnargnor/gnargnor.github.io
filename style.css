@@ -3,7 +3,7 @@ body {
   background-attachment: fixed;
   z-index: -2;
   width: auto;
-  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+  font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
 }
 
 #header {
