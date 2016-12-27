@@ -1,6 +1,7 @@
 body {
   background: black url("24703.jpg") no-repeat center top;
   background-attachment: fixed;
+  z-index: -1;
   width: auto;
   font-family: serif;
   
