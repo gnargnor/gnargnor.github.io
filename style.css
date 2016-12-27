@@ -18,8 +18,9 @@ body {
 #personal-info {
   margin: auto;
   max-width: 800px;
-  border: 4px double black;
-  background-color: rgb(255, 255, 255);
+  border: 2px double white;
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 0.75);
   position: static;
   left: 5px;
   z-index: 1; 
@@ -36,12 +37,6 @@ body {
   top: 150px;
   z-index: -1;
   overflow: hidden;
-}
-
-#line-separator {
-  height: 1px;
-  background: rgb(43, 81, 127);
-  border-bottom: 1px solid DimGray;
 }
 
 #profile, #experience, #skills {
