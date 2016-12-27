@@ -25,7 +25,7 @@ body {
   height: 130px;
 }
 
-#container {
+#content {
   margin: auto;
   max-width: 800px;
   border: 2px double white;
