@@ -12,6 +12,7 @@ body {
   height: 200px;
   position: fixed;
   background: #ffffff url("24703.jpg") no-repeat center top;
+  z-index: 0;
   top: 0px;
 }
 
