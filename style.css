@@ -33,6 +33,7 @@ body {
   position: relative;
   top: 150px;
   z-index: -1;
+  overflow: hidden;
 }
 
 #line-separator {
