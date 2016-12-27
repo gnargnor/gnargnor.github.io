@@ -21,7 +21,7 @@ body {
   max-width: 800px;
   border: 4px double black;
   background-color: rgb(255, 255, 255);
-  position: relative;
+  position: static;
   left: 5px;
   z-index: 1; 
   height: 130px;
