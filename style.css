@@ -52,6 +52,7 @@ body {
 #j1, #j3 {
   margin: auto;
   border: 2px solid white;
+  padding: 3px;
   align-content: left;
   background-color: rgb(114, 184, 255);
   padding-top: 2px;
@@ -61,7 +62,7 @@ body {
   margin: auto;
   align-content: left;
   border: 2px solid white;
-  padding-top: 2px;
+  padding: 3px;
   background-color: rgb(92, 147, 204);
 }
   
@@ -78,10 +79,10 @@ body {
 .address {
   text-align: center;
   color: white;
-  font-size: 16px;
+  font-size: 14px;
   padding: 2px;
   z-index: 2;
-  overflow: hidden;
+  overflow-y: auto;
 }
 
 
@@ -89,26 +90,26 @@ body {
   text-align: center;
   text-decoration: underline;
   color: black;
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .title {
   text-align: left;
   color: Black;
-  font-size: 22px;
+  font-size: 18px;
   font-weight: bold;
 }
 
 .employerinfo {
-  font-size: 22px;
+  font-size: 18px;
   text-align: left;
 }
 
 .list {
   text-align: left;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .description {
-  font-size: 18px;
+  font-size: 16px;
 }
