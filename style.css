@@ -21,7 +21,7 @@ body {
   max-width: 800px;
   border: 2px double white;
   border-radius: 4px;
-  background-color: darkblue
+  background-color: rgb(57, 92, 127);
   position: static;
   left: 5px;
   z-index: 1; 
@@ -33,7 +33,7 @@ body {
   max-width: 800px;
   border: 2px double white;
   border-radius: 4px;
-  background-color: rgba(255, 255, 255, 0.75);
+  background-color: rgba(255, 255, 255, 0.5);
   position: relative;
   top: 150px;
   z-index: -1;
@@ -53,7 +53,7 @@ body {
   margin: auto;
   border: 2px solid white;
   align-content: left;
-  background-color: lightgray;
+  background-color: rgb(114, 184, 255);
   padding-top: 2px;
 }
 
@@ -62,7 +62,7 @@ body {
   align-content: left;
   border: 2px solid white;
   padding-top: 2px;
-  background-color: lightblue;
+  background-color: rgb(92, 147, 204);
 }
   
 
