@@ -1,5 +1,5 @@
 body {
-  background: black url("24703.jpg") no-repeat center top;
+  background: black url("24703.jpg") no-repeat center left;
   background-attachment: fixed;
   z-index: -2;
   width: auto;
@@ -17,7 +17,7 @@ body {
 
 #personal-info {
   border: 2px double black;
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 255, 255, 0.5);
   position: absolute;
   z-index: 1;
   margin: auto;
