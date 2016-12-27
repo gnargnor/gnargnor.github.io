@@ -6,7 +6,7 @@ body {
   
 }
 
-#personal-info {
+#header {
   width: 100%;
   height: 200px;
   position: fixed;
@@ -15,8 +15,14 @@ body {
 
 }
 
+#personal-info {
+  border: 2px solid black;
+  background-color: white;
+  max-width: 400px
+
 #container {
-  margin: auto;  
+  margin: auto;
+  max-width: 600px;
 }
 
 #line-separator {
@@ -30,9 +36,8 @@ body {
   border: 2px double rgb(43, 81, 127);
   border-radius: 4px;
   padding: 25px;
-  margin:5px;
+  margin: auto;
   width: 85%;
-  align-content: center;
 }
 
 #j1, #j3 {
