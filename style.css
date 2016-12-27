@@ -49,14 +49,12 @@ body {
 }
 
 #j1, #j3 {
-  align-content: center;
-  padding: 4px;
-  margin: 2px;
+  align-content: left;
 }
 
 #j2, #j4 {
-  align-content: center;
-  border: 2px solid black;
+  align-content: left;
+  border: 2px 0px solid black;
   background-color: rgb(87, 162, 255);
 }
   
