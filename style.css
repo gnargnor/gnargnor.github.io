@@ -7,10 +7,11 @@ body {
 
 #personal-info, #profile, #experience, #skills {
   background-color: rgb(227, 240, 255);
-  border: 2px 2px 0px 2px double rgb(43, 81, 127);
+  border: 2px double rgb(43, 81, 127);
   padding: 25px;
-  width: 80%;
-  align-items: center;
+  margin:10px;
+  width: 85%;
+  align-content: center;
 }
 
 #profile {
@@ -23,12 +24,13 @@ body {
 }
 
 #j1, #j3 {
-  border-top: (2px solid black);
-  align-items: center;
+  align-content: center;
   padding: 4px;
+  margin: 2px;
 }
 
 #j2, #j3 {
+  align-content: center;
   border-top: (2px solid black);
   background-color: rgb(87, 162, 255);
 }
