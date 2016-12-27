@@ -87,7 +87,7 @@ body {
 
 
 .category {
-  text-align: center;
+  margin: auto;
   text-decoration: underline;
   background-color: black;
   max-width: 75%;
@@ -121,4 +121,5 @@ body {
   background-color: black;
   max-width: 90%;
   color: white;
+  margin: auto;
 }
