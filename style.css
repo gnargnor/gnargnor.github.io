@@ -21,6 +21,7 @@ body {
   background-color: rgba(255, 255, 255, 0.75);
   z-index: 1;
   margin: auto;
+  max-width: 600px;
   
 }
 
@@ -29,6 +30,7 @@ body {
   max-width: 800px;
   border: 2px double white;
   background-color: rgba(255, 255, 255, 0.75);
+  top: 200px;
 }
 
 #line-separator {
@@ -64,6 +66,7 @@ body {
   color: black;
   font-size: 36px;
   padding: 3px;
+  z-index: 2;
   
 }
 
@@ -72,6 +75,7 @@ body {
   color: black;
   font-size: 18px;
   padding: 2px;
+  z-index: 2;
 }
 
 }
