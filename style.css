@@ -69,7 +69,7 @@ body {
 .name {
   text-align: center;
   color: white;
-  font-size: 36px;
+  font-size: 28px;
   padding: 3px;
   z-index: 2;
   
@@ -78,9 +78,10 @@ body {
 .address {
   text-align: center;
   color: white;
-  font-size: 18px;
+  font-size: 16px;
   padding: 2px;
   z-index: 2;
+  overflow: hidden;
 }
 
 
