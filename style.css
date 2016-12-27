@@ -21,7 +21,7 @@ body {
   max-width: 800px;
   border: 2px double white;
   border-radius: 4px;
-  background-color: rgb(2, 74, 127);
+  background-color: rgb(11, 44, 127);
   position: static;
   left: 5px;
   z-index: 1; 
@@ -41,7 +41,7 @@ body {
 }
 
 #profile, #experience, #skills {
-  background-color: rgb(29, 86, 127);
+  background-color: rgba(38, 63, 127, 0.75);
   border: 2px double rgb(43, 81, 127);
   border-radius: 4px;
   padding: 25px;
@@ -54,7 +54,7 @@ body {
   border: 2px solid white;
   padding: 3px;
   align-content: left;
-  background-color: rgb(16, 154, 255);
+  background-color: rgb(35, 97, 255);
   padding-top: 2px;
 }
 
@@ -63,7 +63,7 @@ body {
   align-content: left;
   border: 2px solid white;
   padding: 3px;
-  background-color: rgb(3, 119, 204);
+  background-color: rgb(22, 85, 255);
 }
   
 
@@ -121,17 +121,19 @@ body {
 .list2 {
   padding-left: 3px;
   padding-right: 3px;
+  border: 2px solid white;
   text-align: left;
   margin: auto;
   color: white;
-  background-color: rgb(16, 154, 255);
+  background-color: rgb(35, 97, 255);
 }
 
 .description {
   font-size: 16px;
+  border: 2px solid white;
   padding-left: 3px;
   padding-right: 3px;
-  background-color: rgb(3, 119, 204);
+  background-color: rgb(22, 55, 255);
   text-align: center;
   color: White;
   margin: auto;
