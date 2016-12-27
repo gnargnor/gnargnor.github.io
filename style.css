@@ -41,7 +41,7 @@ body {
 }
 
 #profile, #experience, #skills {
-  background-color: rgba(38, 63, 127, 0.75);
+  background-color: rgba(38, 63, 127, 0.6);
   border: 2px double rgb(43, 81, 127);
   border-radius: 4px;
   padding: 25px;
@@ -54,7 +54,7 @@ body {
   border: 2px solid white;
   padding: 3px;
   align-content: left;
-  background-color: rgba(35, 97, 255, 0.75);
+  background-color: rgba(35, 97, 255, 0.5);
   padding-top: 2px;
 }
 
@@ -63,7 +63,7 @@ body {
   align-content: left;
   border: 2px solid white;
   padding: 3px;
-  background-color: rgba(22, 85, 255, 0.75);
+  background-color: rgba(22, 85, 255, 0.5);
 }
   
 
@@ -125,7 +125,7 @@ body {
   text-align: left;
   margin: auto;
   color: white;
-  background-color: rgba(35, 97, 255, 0.75);
+  background-color: rgba(35, 97, 255, 0.5);
 }
 
 .description {
@@ -133,7 +133,7 @@ body {
   border: 2px solid white;
   padding-left: 3px;
   padding-right: 3px;
-  background-color: rgba(22, 55, 255, 0.75);
+  background-color: rgba(22, 55, 255, 0.5);
   text-align: center;
   color: White;
   margin: auto;
