@@ -21,7 +21,7 @@ body {
   max-width: 800px;
   border: 2px double white;
   border-radius: 4px;
-  background-color: rgb(11, 44, 127);
+  background-color: rgba(11, 44, 127, 0.85);
   position: static;
   left: 5px;
   z-index: 1; 
@@ -54,7 +54,7 @@ body {
   border: 2px solid white;
   padding: 3px;
   align-content: left;
-  background-color: rgb(35, 97, 255);
+  background-color: rgba(35, 97, 255, 0.75);
   padding-top: 2px;
 }
 
@@ -63,7 +63,7 @@ body {
   align-content: left;
   border: 2px solid white;
   padding: 3px;
-  background-color: rgb(22, 85, 255);
+  background-color: rgba(22, 85, 255, 0.75);
 }
   
 
@@ -125,7 +125,7 @@ body {
   text-align: left;
   margin: auto;
   color: white;
-  background-color: rgb(35, 97, 255);
+  background-color: rgba(35, 97, 255, 0.75);
 }
 
 .description {
@@ -133,7 +133,7 @@ body {
   border: 2px solid white;
   padding-left: 3px;
   padding-right: 3px;
-  background-color: rgb(22, 55, 255);
+  background-color: rgba(22, 55, 255, 0.75);
   text-align: center;
   color: White;
   margin: auto;
