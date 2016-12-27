@@ -16,9 +16,11 @@ body {
 }
 
 #personal-info {
+  position: relative;
   border: 2px solid black;
   background-color: white;
-  max-width: 400px
+  max-width: 400px;
+}
 
 #container {
   margin: auto;
@@ -55,7 +57,7 @@ body {
 
 .name {
   text-align: center;
-  font-color: DimGray;
+  color: DimGray;
   font-size: 36px;
   padding: 3px;
   
@@ -63,7 +65,7 @@ body {
 
 .address {
   text-align: center;
-  font-color: DimGray;
+  color: DimGray;
   font-size: 18px;
   padding: 2px;
 }
@@ -71,14 +73,14 @@ body {
 }
 .category {
   text-align: center;
-  font-color: DimGray;
+  color: DimGray;
   font-size: 32px;
   padding: 10px
 }
 
 .title {
   text-align: center;
-  font-color: DimGray;
+  color: DimGray;
   font-size: 28px;
   font-weight: bold;
   padding: 10px;
