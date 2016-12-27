@@ -82,21 +82,22 @@ body {
 .category {
   text-align: center;
   color: black;
-  font-size: 32px;
-  padding: 10px
+  font-size: 24px;
+  padding: 3px
 }
 
 .title {
-  text-align: center;
-  color: DimGray;
-  font-size: 28px;
+  text-align: left;
+  color: Black;
+  font-size: 22px;
   font-weight: bold;
-  padding: 10px;
+  padding: 3px;
 }
 
 .employerinfo {
-  font-size: 26px;
+  font-size: 22px;
   text-align: center;
+  padding: 3px;
 }
 
 .list {
