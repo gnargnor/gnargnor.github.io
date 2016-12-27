@@ -5,22 +5,26 @@ body {
   
 }
 
-#personal-info, #profile, #experience, #skills {
+#personal-info {
+  width: 100%;
+  position: fixed;
+  top: 0px;
+
+}
+#line-separator {
+  height: 1px;
+  background: rgb(43, 81, 127);
+  border-bottom: 1px solid DimGray;
+}
+
+#profile, #experience, #skills {
   background-color: rgb(227, 240, 255);
   border: 2px double rgb(43, 81, 127);
+  border-radius: 4px;
   padding: 25px;
-  margin:10px;
+  margin:5px;
   width: 85%;
   align-content: center;
-}
-
-#profile {
-}
-
-#experience {
-}
-
-#skills {
 }
 
 #j1, #j3 {
@@ -29,9 +33,9 @@ body {
   margin: 2px;
 }
 
-#j2, #j3 {
+#j2, #j4 {
   align-content: center;
-  border-top: (2px solid black);
+  border: 2px solid black;
   background-color: rgb(87, 162, 255);
 }
   
@@ -39,18 +43,19 @@ body {
 .name {
   text-align: center;
   font-color: DimGray;
-  font-size: 48px;
-  padding: 10px;
+  font-size: 36px;
+  padding: 3px;
   
 }
 
 .address {
   text-align: center;
   font-color: DimGray;
-  font-size: 20px;
-  padding: 5px;
+  font-size: 18px;
+  padding: 2px;
 }
 
+}
 .category {
   text-align: center;
   font-color: DimGray;
@@ -74,4 +79,8 @@ body {
 .list {
   text-align: left;
   font-size: 22px;
+}
+
+.description {
+  font-size: 18px;
 }
