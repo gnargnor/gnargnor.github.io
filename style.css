@@ -89,37 +89,47 @@ body {
 .category {
   margin: auto;
   text-decoration: underline;
-  background-color: black;
-  max-width: 75%;
-  color: White;
+  text-align: center;
+  color: Black;
   font-size: 20px;
 }
 
 .title {
   text-align: left;
+  padding-left: 3px;
   color: Black;
   font-size: 18px;
   font-weight: bold;
-  line-height: 0.75;
 }
 
 .employerinfo {
+  padding-left: 3px;
   font-size: 18px;
   text-align: left;
-  line-height: 0.75;
 }
 
 .list {
+  padding-left: 3px;
+  padding-right: 3px;
   text-align: left;
+  margin: auto;
   font-size: 16px;
-  line-height: 0.8;
+}
+
+.list2 {
+  padding-left: 3px;
+  padding-right: 3px;
+  text-align: left;
+  margin: auto;
+  background-color: rgb(114, 184, 255);
 }
 
 .description {
   font-size: 16px;
-  line-height: 0.8;
-  background-color: black;
-  max-width: 90%;
+  padding-left: 3px;
+  padding-right: 3px;
+  background-color: rgb(92, 147, 204);
+  text-align: center;
   color: white;
   margin: auto;
 }
