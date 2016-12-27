@@ -1,6 +1,5 @@
 body {
   background: black url("24703.jpg") no-repeat center top;
-  background-attachment: fixed;
   z-index: -2;
   width: auto;
   font-family: serif;
@@ -33,7 +32,7 @@ body {
   border: 2px double white;
   border-radius: 4px;
   background-color: rgba(255, 255, 255, 0.75);
-  position: absolute;
+  position: static;
   top: 150px;
   z-index: -1;
   overflow: hidden;
