@@ -11,7 +11,7 @@ body {
   width: 100%;
   height: 200px;
   position: fixed;
-  background: #ffffff url("24703.jpg") no-repeat center top;
+  background: rgb(0, 0, 0) url("24703.jpg") no-repeat center top;
   z-index: 0;
   top: 0px;
 }
@@ -62,7 +62,7 @@ body {
 
 .name {
   text-align: center;
-  color: DimGray;
+  color: black;
   font-size: 36px;
   padding: 3px;
   
@@ -70,7 +70,7 @@ body {
 
 .address {
   text-align: center;
-  color: DimGray;
+  color: black;
   font-size: 18px;
   padding: 2px;
 }
@@ -78,7 +78,7 @@ body {
 }
 .category {
   text-align: center;
-  color: DimGray;
+  color: black;
   font-size: 32px;
   padding: 10px
 }
