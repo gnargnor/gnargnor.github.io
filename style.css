@@ -113,7 +113,7 @@ body {
 }
 
 .title {
-  text-align: center;
+  text-align: right;
   padding-right: 8px;
   color: White;
   font-size: 18px;
@@ -122,9 +122,9 @@ body {
 
 .employerinfo {
   color: white;
-  padding-right: 8px;
+  padding-right: 10px;
   font-size: 16px;
-  text-align: center;
+  text-align: right;
 }
 
 .list {
