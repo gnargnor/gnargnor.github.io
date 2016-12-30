@@ -113,6 +113,7 @@ body {
 }
 
 .title {
+  max-width: 350px;
   text-align: right;
   padding-right: 8px;
   color: White;
@@ -121,6 +122,7 @@ body {
 }
 
 .employerinfo {
+  max-width: 350px;
   color: white;
   padding-right: 8px;
   font-size: 16px;
